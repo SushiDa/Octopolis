@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d16de5d2e51786429386b084a4826ee, type: 3}
+  m_Name: InkHitbox
+  m_EditorClassIdentifier: 
+  OffsetX: 45
+  OffsetY: 0
+  X: 80
+  Y: 60
+  Damage: 3
+  BumpDirection: {x: 0, y: 0}
+  BumpPower: 3000
+  KnockdownTime: 0
+  AttackDuration: 2
+  BlockMovement: 0
